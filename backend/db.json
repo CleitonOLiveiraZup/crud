@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "12000.80"
+    },
+    {
+      "name": "Caneta BIC Preta",
+      "price": "5000.89",
+      "id": 3
+    },
+    {
+      "name": "Geladeira",
+      "price": "1914.99",
+      "id": 4
+    },
+    {
+      "name": "iphone x",
+      "price": "3600",
+      "id": 6
+    },
+    {
+      "name": "wesley",
+      "price": "50000000000",
+      "id": 7
+    }
+  ]
+}
